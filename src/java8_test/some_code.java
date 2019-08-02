@@ -19,7 +19,7 @@ public class some_code {
 
     public static void main(String[] args) {
         some_code tester = new some_code();
-
+//kahjdkjlahwkudhkjashdliuwadhkjashdkjashdkjash
         MathOperation addition = (a, b) -> a + b;
         MathOperation subtraction = (a, b) -> a - b;
         MathOperation multiple = (a, b) -> a * b;
